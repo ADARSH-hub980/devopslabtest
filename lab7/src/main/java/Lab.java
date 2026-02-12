@@ -1,7 +1,8 @@
 public class Lab{
 	public static void main (String [] args){
-		System.out.print("Lb");
+		System.out.println("Lb");
 	}
 
 }
+
 
