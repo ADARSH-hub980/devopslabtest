@@ -1,8 +1,9 @@
 public class Lab{
 	public static void main (String [] args){
-		System.out.println("Lb");
+		System.out.println("Hello World");
 	}
 
 }
+
 
 
