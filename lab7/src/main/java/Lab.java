@@ -1,5 +1,6 @@
 public class Lab{
 	public static void main (String [] args){
-		System.out.print("Labtest");
+		System.out.print("Lab");
 	}
+
 }
